@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luguke
-- 👀 I’m interested in ...coding in kotlin
-- 🌱 I’m currently learning ...kotlin
-- 💞️ I’m looking to collaborate on ...kotlin
+- 👀 I’m interested in ...coding in kotlin and java.
+- 🌱 I’m currently learning ...java
+- 💞️ I’m looking to collaborate on ...java
 - 📫 How to reach me ... luguke#9636 on discord
 
 <!---
